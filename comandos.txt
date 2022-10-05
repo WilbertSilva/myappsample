@@ -10,4 +10,5 @@ touch .gitignore
 git branch
 git checkout -> vai pra branch escolhida
 git merge
-git push -u origin
+git push
+git pull
