@@ -1,0 +1,11 @@
+touch -> cria arquivos/pastas
+git init
+git config
+git add
+git status
+git rm --cached
+git add .
+git commit -m
+touch .gitignore
+git branch
+git checkout -> vai pra branch escolhida
